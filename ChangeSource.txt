@@ -1,0 +1,4 @@
+1.modify /etc/apt/sources.list
+deb http://mirrors.ustc.edu.cn/raspbian/raspbian/ jessie main contrib non-free rpi
+2.modify /etc/apt/sources.list.d/raspi.list
+deb http://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/ jessie main ui
